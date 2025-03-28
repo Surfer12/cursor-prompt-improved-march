@@ -1,12 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../../../workspaces/docker-outside-of-docker"
-		},
-		{
-			"name": "cursor-prompt-improved-march",
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
